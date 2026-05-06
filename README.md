@@ -2,12 +2,10 @@
 
 I'm **Eskedar Nigussie**, a Computer Science student and passionate web developer.
 
----
 
 ## 🌐 Personal Website
 👉 [Portfolio](https://personal-portfolio-web-sitee.netlify.app)
 
----
 
 ## 🧠 Tech Stack
 
