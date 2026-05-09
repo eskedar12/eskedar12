@@ -53,24 +53,37 @@ I am passionate about building clean, responsive, and user-friendly web applicat
 
 ## 📌 Featured Projects
 
-### 🧑‍💼 Portfolio Website
-A responsive personal portfolio built using React showcasing my skills and projects.  
-👉 https://personal-portfolio-web-sitee.netlify.app
+### 🛒 E-Commerce Product Page
+A responsive product listing website with a clean UI, showcasing items with images, pricing, and smooth user interaction.
 
-### ☕ Coffee Shop Website
-A modern responsive website with a clean UI and menu display.
-
-### 📚 Online Bookstore (Ethio Literature)
-A web project focused on African and Ethiopian literature with a simple browsing experience.
+**Features:**
+- Product display grid
+- Responsive design for all devices
+- Simple and clean user interface
 
 ---
 
-## 📊 GitHub Stats
+### 🧑‍💼 Personal Portfolio Website
+A modern responsive portfolio built to showcase my skills, projects, and contact information in a professional and elegant way.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eskedar12&show_icons=true&theme=tokyonight)
+**Features:**
+- About me section
+- Project showcase
+- Contact links and social media integration
+- Fully responsive design
 
 ---
 
+### 📅 Task Manager App
+A simple and efficient task management web application that helps users organize daily tasks easily.
+
+**Features:**
+- Add and delete tasks
+- Mark tasks as completed
+- Clean and user-friendly interface
+- Responsive layout
+
+---
 ## 📫 Contact Me
 - Email:nigussieeskedar@gmail.com 
 - [Portfolio](https://personal-portfolio-web-sitee.netlify.app)
