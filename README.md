@@ -2,6 +2,7 @@
 I'm Eskedar Nigussie
 
 🎓 Computer Science student | 💻 MERN stack developer
+
 💼 Open for Internship Opportunities (Frontend / Full Stack)
 
 I am passionate about building clean, responsive, and user-friendly web applications using modern technologies. I enjoy learning by building real-world projects.
