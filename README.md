@@ -1,7 +1,7 @@
 # Hi there 👋
-I'm 💫 Eskedar Nigussie
+I'm  Eskedar Nigussie
 
-🎓 Computer Science student | 💻 MERN stack developer
+💻 MERN stack developer
 
 💼 Open for Internship Opportunities (Frontend / Full Stack)
 
