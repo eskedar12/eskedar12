@@ -9,16 +9,17 @@ I am passionate about building clean, responsive, and user-friendly web applicat
 
 ---
 
-##🌐 [Portfolio](https://personal-portfolio-h9st.onrender.com)
+#🌐 [Portfolio](https://personal-portfolio-h9st.onrender.com)
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently improving my frontend and full-stack development skills  
-- 🌱 Learning React, Node.js, and modern JavaScript deeply  
-- 🎯 Goal: Become a professional software engineer   
-- 💡 I enjoy building real-world projects and solving problems  
-- 📍 Based in Ethiopia  
+- 💻 Building real-world web applications and expanding my development skills
+- ⚛️ Working with React, Node.js, Express, MongoDB, and modern JavaScript
+- 🚀 Creating full-stack projects to strengthen problem-solving and software engineering skills
+- 📚 Continuously learning new technologies and development best practices
+- 🎯 Goal: Become a professional software engineer and contribute to impactful products
+- 📍 Based in Ethiopia
 
 ---
 
