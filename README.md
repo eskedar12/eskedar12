@@ -1,4 +1,22 @@
 # Hi there 👋
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B3F9E&height=200&section=header&text=Eskedar%20Nigussie&fontSize=60&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20Frontend%20%2F%20Full-Stack&descSize=18&descAlignY=75&fontAlignY=35" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/eskedar-nigussie?label=FOLLOWERS&style=for-the-badge&color=6C63FF&labelColor=4B5563"/>
+  <a href="https://github.com/eskedar-nigussie?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:nigussieeskedar@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/Letitbe_16"><img src="https://img.shields.io/badge/TELEGRAM-5B8DEF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eskedar-nigussie&label=PROFILE+VIEWS&style=for-the-badge&color=6C63FF"/>
+</p>
+
+---
+
 I'm Eskedar Nigussie
 
 💻 MERN Stack Developer | 💼 Open to Internship Opportunities (Frontend / Full Stack)
