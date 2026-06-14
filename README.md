@@ -102,4 +102,5 @@ A MERN-based web application that helps users track job applications, their stat
 
 ## 📫 Contact Me
 - Email: nigussieeskedar@gmail.com
-- [Portfolio](https://personal-portfolio-h9st.onrender.com)
+- 📷 Instagram: eskedar__
+- ✈️ Telegram:Letitbe_16
