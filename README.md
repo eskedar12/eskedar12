@@ -3,6 +3,8 @@ I'm Eskedar Nigussie
 
 💻 MERN Stack Developer | 💼 Open to Internship Opportunities (Frontend / Full Stack)
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+Clean%2C+Responsive+Web+Apps;Open+for+Internship+Opportunities)
+
 I'm a passionate and detail-oriented developer focused on building clean, responsive, and user-friendly web applications using modern technologies. I enjoy turning ideas into real-world projects, continuously improving my skills, and writing efficient, maintainable code. I'm eager to bring my growing expertise to a team where I can learn, contribute, and grow as a software engineer.
 
 ---
@@ -101,6 +103,7 @@ A MERN-based web application that helps users track job applications, their stat
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: nigussieeskedar@gmail.com
+- ✉️ Email: [nigussieeskedar@gmail.com](mailto:nigussieeskedar@gmail.com)
 - 📷 Instagram: [eskedar__](https://instagram.com/eskedar__)
 - ✈️ Telegram: [Letitbe_16](https://t.me/Letitbe_16)
+- [Portfolio](https://personal-portfolio-h9st.onrender.com)
