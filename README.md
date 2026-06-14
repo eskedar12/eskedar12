@@ -1,9 +1,9 @@
 # Hi there 👋
 I'm Eskedar Nigussie
-💻 MERN stack developer
-💼 Open for Internship Opportunities (Frontend / Full Stack)
 
-I am passionate about building clean, responsive, and user-friendly web applications using modern technologies. I enjoy learning by building real-world projects.
+💻 MERN Stack Developer | 💼 Open to Internship Opportunities (Frontend / Full Stack)
+
+I'm a passionate and detail-oriented developer focused on building clean, responsive, and user-friendly web applications using modern technologies. I enjoy turning ideas into real-world projects, continuously improving my skills, and writing efficient, maintainable code. I'm eager to bring my growing expertise to a team where I can learn, contribute, and grow as a software engineer.
 
 ---
 
@@ -26,6 +26,7 @@ I am passionate about building clean, responsive, and user-friendly web applicat
 ### 💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
@@ -33,6 +34,8 @@ I am passionate about building clean, responsive, and user-friendly web applicat
 ### ⚛️ Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
 </p>
 
@@ -40,12 +43,16 @@ I am passionate about building clean, responsive, and user-friendly web applicat
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50"/>
 </p>
 
 ### 🛠 Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 </p>
 
@@ -54,37 +61,29 @@ I am passionate about building clean, responsive, and user-friendly web applicat
 ## 📌 Featured Projects
 
 ### 📚 StudyHive – Study Resource & Chat Platform
-
 A full-stack MERN application where students can share and access study resources, and communicate in real time using Socket.io for instant messaging.
 
 **Features:**
-
 - Upload and browse study resources
-
 - Real-time chat using Socket.io
-
 - User authentication
-
 - Responsive, student-friendly interface
 
-🔗 Live Demo: [[https://studyhive-app.onrender.com](https://studyhive-app.onrender.com/)]
+🔗 Live Demo: [https://studyhive-app.onrender.com](https://studyhive-app.onrender.com/)
 
 ---
-🍔 DireFoods – Food Delivery App
 
+### 🍔 DireFoods – Food Delivery App
 A MERN-based food delivery web application where users can browse restaurants, add items to cart, and place orders with a smooth ordering experience.
 
-Features:
+**Features:**
+- Browse restaurants and menu items
+- Add to cart and place orders
+- User authentication
+- Admin panel to add/remove restaurants and food items
+- Responsive layout
 
-
-Browse restaurants and menu items
-Add to cart and place orders
-User authentication
-Admin panel to add/remove restaurants and food items
-Responsive layout
-
-
-🔗 Live Demo: [https://food-delivery-app-qfcw.onrender.com/]
+🔗 Live Demo: [https://food-delivery-app-qfcw.onrender.com](https://food-delivery-app-qfcw.onrender.com/)
 
 ---
 
@@ -97,7 +96,7 @@ A MERN-based web application that helps users track job applications, their stat
 - Organized dashboard view
 - Responsive layout
 
-🔗 Live Demo: [https://job-tracker-web-ych8.onrender.com/]
+🔗 Live Demo: [https://job-tracker-web-ych8.onrender.com](https://job-tracker-web-ych8.onrender.com/)
 
 ---
 
