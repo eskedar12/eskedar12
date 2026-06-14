@@ -1,15 +1,13 @@
 # Hi there 👋
-I'm  Eskedar Nigussie
-
+I'm Eskedar Nigussie
 💻 MERN stack developer
-
 💼 Open for Internship Opportunities (Frontend / Full Stack)
 
 I am passionate about building clean, responsive, and user-friendly web applications using modern technologies. I enjoy learning by building real-world projects.
 
 ---
 
-#🌐 [Portfolio](https://personal-portfolio-h9st.onrender.com)
+# 🌐 [Portfolio](https://personal-portfolio-h9st.onrender.com)
 
 ---
 
@@ -55,39 +53,54 @@ I am passionate about building clean, responsive, and user-friendly web applicat
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce Product Page
-A responsive product listing website with a clean UI, showcasing items with images, pricing, and smooth user interaction.
+### 📚 StudyHive – Study Resource & Chat Platform
+
+A full-stack MERN application where students can share and access study resources, and communicate in real time using Socket.io for instant messaging.
 
 **Features:**
-- Product display grid
-- Responsive design for all devices
-- Simple and clean user interface
+
+- Upload and browse study resources
+
+- Real-time chat using Socket.io
+
+- User authentication
+
+- Responsive, student-friendly interface
+
+🔗 Live Demo: [[https://studyhive-app.onrender.com](https://studyhive-app.onrender.com/)]
+
+---
+🍔 DireFoods – Food Delivery App
+
+A MERN-based food delivery web application where users can browse restaurants, add items to cart, and place orders with a smooth ordering experience.
+
+Features:
+
+
+Browse restaurants and menu items
+Add to cart and place orders
+User authentication
+Admin panel to add/remove restaurants and food items
+Responsive layout
+
+
+🔗 Live Demo: [https://food-delivery-app-qfcw.onrender.com/]
 
 ---
 
-### 🧑‍💼 Personal Portfolio Website
-A modern responsive portfolio built to showcase my skills, projects, and contact information in a professional and elegant way.
+### 📋 Job Tracker App
+A MERN-based web application that helps users track job applications, their status, and progress throughout the job search process.
 
 **Features:**
-- About me section
-- Project showcase
-- Contact links and social media integration
-- Fully responsive design
-
----
-
-### 📅 Task Manager App
-A simple and efficient task management web application that helps users organize daily tasks easily.
-
-**Features:**
-- Add and delete tasks
-- Mark tasks as completed
-- Clean and user-friendly interface
+- Add, edit, and delete job applications
+- Track application status (Applied, Interview, Offer, Rejected)
+- Organized dashboard view
 - Responsive layout
 
----
-## 📫 Contact Me
-- Email:nigussieeskedar@gmail.com 
-- [Portfolio](https://personal-portfolio-h9st.onrender.com)
-- 
+🔗 Live Demo: [https://job-tracker-web-ych8.onrender.com/]
 
+---
+
+## 📫 Contact Me
+- Email: nigussieeskedar@gmail.com
+- [Portfolio](https://personal-portfolio-h9st.onrender.com)
