@@ -101,6 +101,6 @@ A MERN-based web application that helps users track job applications, their stat
 ---
 
 ## 📫 Contact Me
-- Email: nigussieeskedar@gmail.com
-- 📷 Instagram: eskedar__
-- ✈️ Telegram:Letitbe_16
+- ✉️ Email: nigussieeskedar@gmail.com
+- 📷 Instagram: [eskedar__](https://instagram.com/eskedar__)
+- ✈️ Telegram: [Letitbe_16](https://t.me/Letitbe_16)
