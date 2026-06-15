@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Eskedar Nigussie
 
-💻 MERN Stack Developer | 💼 Open to Internship Opportunities (Frontend / Full Stack)
+💻 MERN Stack Developer
 
 I'm a passionate and detail-oriented developer focused on building clean, responsive, and user-friendly web applications using modern technologies. I enjoy turning ideas into real-world projects, continuously improving my skills, and writing efficient, maintainable code. I'm eager to bring my growing expertise to a team where I can learn, contribute, and grow as a software engineer.
 
