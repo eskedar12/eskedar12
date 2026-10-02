@@ -7,7 +7,7 @@ I'm a passionate and detail-oriented developer focused on building clean, respon
 
 ---
 
-# 🌐 [Portfolio](https://personal-portfolio-h9st.onrender.com)
+# 🌐 [Portfolio](https://eskedar.pro.et/)
 
 ---
 
