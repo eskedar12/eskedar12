@@ -3,7 +3,7 @@ I'm Eskedar Nigussie
 
 💻 MERN Stack Developer
 
-I'm a passionate and detail-oriented developer focused on building clean, responsive, and user-friendly web applications using modern technologies. I enjoy turning ideas into real-world projects, continuously improving my skills, and writing efficient, maintainable code. I'm eager to bring my growing expertise to a team where I can learn, contribute, and grow as a software engineer.
+I build full-stack web applications with the MERN stack, from the React interface to the Express API and MongoDB database. I care about clean, responsive design and readable, maintainable code, and I enjoy taking an idea all the way to a deployed product people can use. I'm looking for a junior developer role where I can contribute to a team and keep growing as a software engineer.
 
 ---
 
@@ -61,42 +61,47 @@ I'm a passionate and detail-oriented developer focused on building clean, respon
 ## 📌 Featured Projects
 
 ### 📚 StudyHive – Study Resource & Chat Platform
-A full-stack MERN application where students can share and access study resources, and communicate in real time using Socket.io for instant messaging.
+A full-stack MERN application where students can share and access study resources and chat in real time.
 
 **Features:**
 - Upload and browse study resources
-- Real-time chat using Socket.io
+- Real-time messaging with Socket.io
 - User authentication
 - Responsive, student-friendly interface
 
-🔗 Live Demo: [https://studyhive-app.onrender.com](https://studyhive-app.onrender.com/)
+**Tech:** React · Node.js · Express · MongoDB · Socket.io
+
+🔗 [Live Demo](https://studyhive-app.onrender.com/) · 💻 [Source Code](ADD_GITHUB_LINK)
 
 ---
 
-### 🍔 DireFoods – Food Delivery App
-A MERN-based food delivery web application where users can browse restaurants, add items to cart, and place orders with a smooth ordering experience.
+### 🛍️ Lebeza – [One-line description]
+[Two sentences: what problem it solves and who it is for.]
 
 **Features:**
-- Browse restaurants and menu items
-- Add to cart and place orders
-- User authentication
-- Admin panel to add/remove restaurants and food items
+- [Feature 1]
+- [Feature 2]
+- [Feature 3]
 - Responsive layout
 
-🔗 Live Demo: [https://food-delivery-app-qfcw.onrender.com](https://food-delivery-app-qfcw.onrender.com/)
+**Tech:** [e.g. React · Node.js · Express · MongoDB]
+
+🔗 [Live Demo](ADD_LINK) · 💻 [Source Code](ADD_GITHUB_LINK)
 
 ---
 
-### 📋 Job Tracker App
-A MERN-based web application that helps users track job applications, their status, and progress throughout the job search process.
+### 🏪 Regebeya – [One-line description]
+[Two sentences: what problem it solves and who it is for.]
 
 **Features:**
-- Add, edit, and delete job applications
-- Track application status (Applied, Interview, Offer, Rejected)
-- Organized dashboard view
+- [Feature 1]
+- [Feature 2]
+- [Feature 3]
 - Responsive layout
 
-🔗 Live Demo: [https://job-tracker-web-ych8.onrender.com](https://job-tracker-web-ych8.onrender.com/)
+**Tech:** [e.g. React · Node.js · Express · MongoDB]
+
+🔗 [Live Demo](ADD_LINK) · 💻 [Source Code](ADD_GITHUB_LINK)
 
 ---
 
