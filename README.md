@@ -11,12 +11,12 @@ I build full-stack web applications with React, Node.js and Express, backed by M
 
 ---
 
-## 🚀 About Me
-- 💻 Building real-world web applications and expanding my development skills
-- ⚛️ Working with React, Node.js, Express, MongoDB, PostgreSQL, MySQL, and modern JavaScript
-- 🚀 Creating full-stack projects to strengthen problem-solving and software engineering skills
-- 📚 Continuously learning new technologies and development best practices
-- 🎯 Goal: Become a professional software engineer and contribute to impactful products
+## About Me
+-  Building real-world web applications and expanding my development skills
+-  Working with React, Node.js, Express, MongoDB, PostgreSQL, MySQL, and modern JavaScript
+-  Creating full-stack projects to strengthen problem-solving and software engineering skills
+-  Continuously learning new technologies and development best practices
+-  Goal: Become a professional software engineer and contribute to impactful products
 - 📍 Based in Ethiopia
 
 ---
