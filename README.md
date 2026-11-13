@@ -31,7 +31,7 @@ I build full-stack web applications with React, Node.js and Express, backed by M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
 
-### ⚛️ Frontend
+###  Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50"/>
@@ -40,7 +40,7 @@ I build full-stack web applications with React, Node.js and Express, backed by M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
 </p>
 
-### 🧩 Backend
+###  Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
@@ -62,9 +62,9 @@ I build full-stack web applications with React, Node.js and Express, backed by M
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 📚 StudyHive – Collaborative Learning Platform
+###  StudyHive – Collaborative Learning Platform
 A full-stack resource sharing platform where students discover, share, and collaborate on educational materials.
 
 **Features:**
@@ -75,7 +75,7 @@ A full-stack resource sharing platform where students discover, share, and colla
 
 **Tech:** React · Node.js · Express · MongoDB · Socket.io · JWT
 
-🔗 [Live Demo](https://studyhive-app.onrender.com) · 💻 [Source Code](https://github.com/eskedar12/studyhive-resource_sharing)
+🔗 [Live Demo](https://studyhive-app.onrender.com) ·  [Source Code](https://github.com/eskedar12/studyhive-resource_sharing)
 
 ---
 
@@ -89,7 +89,7 @@ A redesigned and rebuilt website for Lebeza Psychiatry Hospital with a modern, r
 
 **Tech:** React · Tailwind CSS · Node.js · Express.js · MongoDB
 
-🔗 [Live Demo](https://lebeza-website.onrender.com) · 💻 [Source Code](https://github.com/eskedar12/Healthcare_website)
+🔗 [Live Demo](https://lebeza-website.onrender.com) ·  [Source Code](https://github.com/eskedar12/Healthcare_website)
 
 ---
 
@@ -109,7 +109,7 @@ A full-stack marketplace built for Ethiopia, letting people buy and sell second-
 
 ---
 
-## 📫 Contact Me
+##📫 Contact Me
 - ✉️ Email: nigussieeskedar@gmail.com
 - 📷 Instagram: [eskedar__](https://instagram.com/eskedar__)
 - ✈️ Telegram: [Letitbe_16](https://t.me/Letitbe_14).
