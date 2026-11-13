@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Eskedar Nigussie
 
-💻 Fullstack Stack Developer
+Fullstack Stack Developer
 
 I build full-stack web applications with React, Node.js and Express, backed by MongoDB, PostgreSQL or MySQL. I care about clean, responsive design and readable, maintainable code, and I enjoy taking an idea all the way to a deployed product people can use. I'm looking for a junior developer role where I can contribute to a team and keep growing as a software engineer.
 
@@ -21,9 +21,9 @@ I build full-stack web applications with React, Node.js and Express, backed by M
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
